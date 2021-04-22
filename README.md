@@ -50,7 +50,7 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[twitter]: https://twitter.com/Maiconjss
+[twitter]: https://twitter.com/Maiconjss_
 [youtube]: https://www.youtube.com/channel/UC9OxZP_I8LeX4wGk2V_JNIA
 [linkedin]:https://www.linkedin.com/in/maicondouglasz/
 
