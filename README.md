@@ -1,15 +1,16 @@
 ### Olá! eu sou o Maicon 👋
 
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Maiconjss_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMaiconjss_&screen_name=Maiconjss_)
 
 ## Sou Desenvolvedor SharePoint e adoro trabalhar com tecnologias Microsoft
 
-- Experiência em grandes projetos utilizando SharePoint em versões On-Premisse & Online
-- Conhecimento avançado em Power Apps, Power Automate & Power Bi
-- Desenvolvimento de webparts personalizadas com SharePoint framework ( SPFX )
-- Administração de ambientes utilizando Azure
-- Desenvolvimento Web com ReactJs e NodeJs
-- Vivência em gestão ágil de projetos
+-  Experiência em grandes projetos utilizando SharePoint em versões On-Premisse & Online
+-  Conhecimento avançado em Power Apps, Power Automate & Power Bi
+-  Desenvolvimento de webparts personalizadas com SharePoint framework ( SPFX )
+-  Administração de ambientes utilizando Azure
+-  Desenvolvimento Web com ReactJs e NodeJs
+-  Vivência em gestão ágil de projetos
 
 ### Fale comigo:
 
@@ -22,7 +23,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
@@ -40,14 +41,20 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
+<br />
 
 ---
+
 
   <summary>:zap: GitHub Status</summary>
 
   <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=Maiconjss&show_icons=true&hide_border=true" />
 
+
+
+
 [twitter]: https://twitter.com/Maiconjss
 [youtube]: https://www.youtube.com/channel/UC9OxZP_I8LeX4wGk2V_JNIA
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
+
