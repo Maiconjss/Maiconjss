@@ -46,9 +46,9 @@
 ---
 
 
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Status</summary>
 
-  <img align="left" alt="Maicon Ferreira GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Maiconjss&show_icons=true&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=Maiconjss&show_icons=true&hide_border=true" />
 
 
 
