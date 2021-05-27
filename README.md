@@ -41,11 +41,6 @@
 ---
 
 
-  <summary>:zap: GitHub Status</summary>
-
-  <img align="left" alt="Maicon Ferreira GitHub Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=Maiconjss&show_icons=true&hide_border=true" />
-
-
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
