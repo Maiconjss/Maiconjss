@@ -1,24 +1,25 @@
 # Maicon Ferreira
 
-Building AI-powered enterprise experiences, intelligent workflows and developer tools.
+Tech Lead focused on AI-powered enterprise experiences, scalable architectures and modern digital solutions.
 
 ---
 
 ## 🚀 About Me
 
-Software developer focused on creating modern digital experiences with AI, automation and productivity-driven solutions.
+Experienced professional in Microsoft 365, SharePoint, Power Platform and enterprise solution architecture, with over 8 years of experience delivering large-scale business solutions.
 
-Currently exploring:
-- AI integrations
-- Enterprise workflows
-- Developer tooling
-- Modern UX
-- Automation systems
-- Local and open-source AI ecosystems
+My journey evolved from hands-on development with SPFx, React and Power Platform to technical leadership, solution governance and strategic architecture decisions across enterprise environments.
+
+Currently focused on:
+- AI-powered enterprise solutions
+- Intelligent workflows and automation
+- Developer productivity
+- Cloud architecture and integrations
+- Modern workplace experiences
 
 ---
 
-## 🤖 AI Ecosystem
+## 🤖 AI & Modern Ecosystem
 
 Working with and exploring:
 - OpenAI
@@ -26,20 +27,25 @@ Working with and exploring:
 - Hermes
 - OpenClaw
 - Azure AI
-- Local AI workflows
 - AI-assisted development
+- Local AI workflows
+- Enterprise AI integrations
 
 ---
 
-## ⚡ Tech
+## ⚡ Core Technologies
 
-- TypeScript
-- React
 - Microsoft 365
-- SharePoint
+- SharePoint Online
+- SPFx
+- React
+- TypeScript
 - Azure
+- Power Platform
+- SQL Server
 - Node.js
-
+- GCP / AWS
+- OpenAI APIs
 
 ---
 
@@ -47,17 +53,21 @@ Working with and exploring:
 
 ### Fluent UI Snippets
 
-VSCode extension focused on improving enterprise frontend productivity and accelerating UI delivery.
+VSCode extension focused on accelerating enterprise frontend development and improving developer productivity with reusable Fluent UI patterns and components.
+
+🔗 Project Link: [ADD_YOUR_LINK_HERE]
 
 ---
 
-## 🎯 Current Focus
+## 🧠 Leadership & Architecture
 
-- Building AI-powered experiences
-- Intelligent workflow automation
-- Developer productivity systems
-- Enterprise modernization
-- AI-first user experiences
+- Technical leadership and governance
+- Enterprise solution architecture
+- Cloud cost optimization
+- Scalable application design
+- Development team mentoring
+- Business-driven technology strategy
+- Modernization of enterprise platforms
 
 ---
 
