@@ -1,16 +1,68 @@
-## Hi there 👋
+# Maicon Ferreira
 
-<!--
-**Maiconjss/Maiconjss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI-powered enterprise experiences, intelligent workflows and developer tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+Software developer focused on creating modern digital experiences with AI, automation and productivity-driven solutions.
+
+Currently exploring:
+- AI integrations
+- Enterprise workflows
+- Developer tooling
+- Modern UX
+- Automation systems
+- Local and open-source AI ecosystems
+
+---
+
+## 🤖 AI Ecosystem
+
+Working with and exploring:
+- OpenAI
+- Claude
+- Hermes
+- OpenClaw
+- Azure AI
+- Local AI workflows
+- AI-assisted development
+
+---
+
+## ⚡ Tech
+
+- TypeScript
+- React
+- Microsoft 365
+- SharePoint
+- Azure
+- Node.js
+
+
+---
+
+## 🛠 Featured Project
+
+### Fluent UI Snippets
+
+VSCode extension focused on improving enterprise frontend productivity and accelerating UI delivery.
+
+---
+
+## 🎯 Current Focus
+
+- Building AI-powered experiences
+- Intelligent workflow automation
+- Developer productivity systems
+- Enterprise modernization
+- AI-first user experiences
+
+---
+
+## 🌐 Connect
+
+- LinkedIn
+- X / Twitter
+- Instagram
