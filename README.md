@@ -45,7 +45,6 @@ Working with and exploring:
 - SQL Server
 - Node.js
 - GCP / AWS
-- OpenAI APIs
 
 ---
 
@@ -55,7 +54,7 @@ Working with and exploring:
 
 VSCode extension focused on accelerating enterprise frontend development and improving developer productivity with reusable Fluent UI patterns and components.
 
-🔗 Project Link: [ADD_YOUR_LINK_HERE]
+🔗 Project Link: https://marketplace.visualstudio.com/items?itemName=Maicon.fluent-ui-snippets
 
 ---
 
@@ -73,6 +72,6 @@ VSCode extension focused on accelerating enterprise frontend development and imp
 
 ## 🌐 Connect
 
-- LinkedIn
-- X / Twitter
-- Instagram
+- LinkedIn: https://www.linkedin.com/in/maicondouglasz
+- X / Twitter: https://x.com/maiquitoz
+- Instagram: https://www.instagram.com/maiquitoz
